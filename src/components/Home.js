@@ -28,7 +28,7 @@ const Home = () => {
         <div class="quote"><b>I code because it's challenging.</b></div>
         <div class="quote"><b>I code because somewhere between 3am debugging sessions and 9am classes, I find happiness in it.</b></div>
         <p></p>
-        <div class="bio">Currently a masters in Computer Science at Northwestern, I love my program and I have learned a lot through it (head over to the projects tab to see some of my work). I will be graduating in March 2022 and I am looking for full time Software engineering roles. Stay in touch through LinkedIn!</div>
+        <div class="bio">Currently doing a masters in Computer Science at Northwestern, I love my program and I have learned a lot through it (head over to the projects tab to see some of my work). I will be graduating in March 2022 and I am looking for full time Software engineering roles. Stay in touch through LinkedIn!</div>
       </div>
     </div>
   )
